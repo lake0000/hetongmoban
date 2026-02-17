@@ -1,4 +1,5 @@
 ## 合同示范文本库爬虫代码
+(申明：仅用于交流学习，公开信息快速获取，禁止非法用途)
 - **网站**：[https://htsfwb.samr.gov.cn/](https://htsfwb.samr.gov.cn/)
 
 ### 文件功能
